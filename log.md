@@ -21,6 +21,6 @@
 
 **Today's Progress**: Freecodecamp (30 mins)
 
-**Thoughts:** More basic HTML and CSS - radio buttons and checkboxes
+**Thoughts:** Finished basic HTML5 and CSS
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)

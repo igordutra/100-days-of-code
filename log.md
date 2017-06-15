@@ -24,3 +24,12 @@
 **Thoughts:** Finished basic HTML5 and CSS
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+
+### Day 4: June 15, 2017
+
+**Today's Progress**: Freecodecamp (60 mins)
+
+**Thoughts:** Finished Bootstrap and started JQuery
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

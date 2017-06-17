@@ -33,3 +33,12 @@
 **Thoughts:** Finished Bootstrap and started JQuery
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+
+### Day 5: June 16, 2017
+
+**Today's Progress**: Freecodecamp (60 mins)
+
+**Thoughts:** Finished Jquery and created a tribute page (very basic, using Bootstrap)
+
+**Link to work:** [Codepen]https://codepen.io/igordutra/full/dRNXZm/

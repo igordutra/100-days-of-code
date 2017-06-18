@@ -42,3 +42,21 @@
 **Thoughts:** Finished Jquery and created a tribute page (very basic, using Bootstrap)
 
 **Link to work:** [Codepen]https://codepen.io/igordutra/full/dRNXZm/
+
+
+### Day 6: June 17, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Portfolio challenge. I'm using bootstrap 4.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+
+### Day 7: June 18, 2017
+
+**Today's Progress**: Freecodecamp (20 mins) - I need to compensate
+
+**Thoughts:** Portfolio challenge. I'm using bootstrap 4.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

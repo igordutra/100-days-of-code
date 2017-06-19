@@ -62,7 +62,7 @@
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
 
 
-### Day 7: June 18, 2017
+### Day 8: June 19, 2017
 
 **Today's Progress**: Freecodecamp (60 mins)
 

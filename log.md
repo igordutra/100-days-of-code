@@ -60,3 +60,12 @@
 **Thoughts:** Portfolio challenge. I'm using bootstrap 4.
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+
+### Day 7: June 18, 2017
+
+**Today's Progress**: Freecodecamp (60 mins)
+
+**Thoughts:** Finished portfolio challenge and started javascript.
+
+**Link to work:** [Codepen](https://codepen.io/igordutra/pen/KqaRPM)

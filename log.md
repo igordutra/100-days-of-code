@@ -69,3 +69,12 @@
 **Thoughts:** Finished portfolio challenge and started javascript.
 
 **Link to work:** [Codepen](https://codepen.io/igordutra/pen/KqaRPM)
+
+
+### Day 9: June 20, 2017
+
+**Today's Progress**: Freecodecamp (60 mins)
+
+**Thoughts:** Loads of basic javascript, good progress.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

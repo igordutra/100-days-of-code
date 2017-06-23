@@ -98,7 +98,7 @@
 
 ### Day 12: June 23, 2017
 
-**Today's Progress**: Freecodecamp (30 mins)
+**Today's Progress**: Freecodecamp (60 mins)
 
 **Thoughts:** More basic javascript. Booleans, operators, if, else if.
 

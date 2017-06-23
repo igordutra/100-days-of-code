@@ -78,3 +78,28 @@
 **Thoughts:** Loads of basic javascript, good progress.
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+
+### Day 10: June 21, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Loads of basic javascript, good progress.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+### Day 11: June 22, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Loads of basic javascript, strugled in one activity because I got the order wrong...
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+### Day 12: June 23, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** More basic javascript. Booleans, operators, if, else if.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

@@ -103,3 +103,11 @@
 **Thoughts:** More basic javascript. Booleans, operators, if, else if.
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+
+### Day 13: June 24, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Javascript objects... interesting.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

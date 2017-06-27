@@ -119,3 +119,17 @@
 **Thoughts:** Finished Javascript. Navigating through arrays and objects is a pretty interesting topic! Tomorrow Object Oriented and Functional programming
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 15: June 26, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Object Oriented and Functional Programming
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 16: June 27, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Object Oriented and Functional Programming
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

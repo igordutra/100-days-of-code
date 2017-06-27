@@ -2,7 +2,7 @@
 
 ## Main Commitment
 ### *I will code for at least 30 minutes every day for the next 100 days.*
-### My goal is to be a decent javascript ddssss
+### My goal is to be pretty savvy with javascript
 
 #### Start Date
 June 12th, 2017. 

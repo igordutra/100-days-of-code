@@ -133,3 +133,17 @@
 **Thoughts:** Object Oriented and Functional Programming
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 17: June 28, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Object Oriented and Functional Programming
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 18: June 29, 2017
+
+**Today's Progress**: Freecodecamp (60 mins)
+
+**Thoughts:** Algorithm scripting. Reversing string and factorial.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

@@ -147,3 +147,31 @@
 **Thoughts:** Algorithm scripting. Reversing string and factorial.
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 19: June 30, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Algorithm scripting. Palindromes and longest word
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 20: July 1, 2017
+
+**Today's Progress**: Freecodecamp (60 mins)
+
+**Thoughts:** Algorithm scripting. Title Case a Sentence, Return Largest Numbers in Arrays, Confirm the Ending
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 21: July 2, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Algorithm scripting. Repeat a string repeat a string, Truncate a string
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 22: July 4, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Algorithm scripting. Chunky Monkey, Slasher Flick
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

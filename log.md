@@ -175,3 +175,24 @@
 **Thoughts:** Algorithm scripting. Chunky Monkey, Slasher Flick
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 23: July 5, 2017
+
+**Today's Progress**: Freecodecamp (20 mins)
+
+**Thoughts:** Algorithm scripting. 
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 24: July 6, 2017
+
+**Today's Progress**: Freecodecamp (20 mins)
+
+**Thoughts:** Algorithm scripting. 
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 24: July 7, 2017
+
+**Today's Progress**: Freecodecamp (90 mins)
+
+**Thoughts:** Algorithm scripting - finished.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)

@@ -189,7 +189,7 @@
 **Thoughts:** Algorithm scripting. 
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
-### Day 24: July 7, 2017
+### Day 25: July 7, 2017
 
 **Today's Progress**: Freecodecamp (90 mins)
 

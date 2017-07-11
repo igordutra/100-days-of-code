@@ -196,3 +196,38 @@
 **Thoughts:** Algorithm scripting - finished.
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 25: July 8, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** JSON apis and Ajax
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.com)
+### Day 26: July 9, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Build a random quote machine
+
+**Link to work:** [Codepen - Random Quote Machine](https://codepen.io/igordutra/full/mwGxNw/)
+### Day 27: July 10, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Finished Build a random quote machine (didn't bother about asthetics). Started show the local weather.
+
+**Link to work:** [Codepen - Random Quote Machine](https://codepen.io/igordutra/full/mwGxNw/)
+### Day 28: July 10, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Build a random quote machine
+
+**Link to work:** [Codepen - Show the Local Weather](https://codepen.io/igordutra/full/pwQZRe/)
+### Day 29: July 11, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Show the local weather
+
+**Link to work:** [Codepen - Show the Local Weather](https://codepen.io/igordutra/full/pwQZRe/)

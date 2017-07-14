@@ -231,3 +231,11 @@
 **Thoughts:** Intermediate frontend dev projects - Show the local weather
 
 **Link to work:** [Codepen - Show the Local Weather](https://codepen.io/igordutra/full/pwQZRe/)
+### Day 30: July 14, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Show the local weather. Using codepen projects. Not much motivation but I'll end eventually.
+
+**Link to work:** [Codepen - Show the Local Weather](https://codepen.io/igordutra/project/editor/Adygnk/)
+

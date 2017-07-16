@@ -239,3 +239,11 @@
 
 **Link to work:** [Codepen - Show the Local Weather](https://codepen.io/igordutra/project/editor/Adygnk/)
 
+### Day 31: July 16, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Show the local weather. Using codepen projects. Only part missing is finding suitable weather icons to display (without storing them on codepen) - very time consuming
+
+**Link to work:** [Codepen - Show the Local Weather](https://codepen.io/igordutra/project/editor/Adygnk/)
+

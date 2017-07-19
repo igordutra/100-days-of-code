@@ -247,7 +247,7 @@
 
 **Link to work:** [Codepen - Show the Local Weather](https://codepen.io/igordutra/project/editor/Adygnk/)
 
-### Day 31: July 16, 2017
+### Day 32: July 19, 2017
 
 **Today's Progress**: Freecodecamp (30 mins)
 

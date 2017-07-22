@@ -261,5 +261,13 @@
 
 **Thoughts:** Intermediate frontend dev projects - Build Wikipedia Viewer. Frontend styles and CSS. So far so good. Next Step, make the API requests.
 
-**Link to work:** [Codepen - Wikipedia Viewer](https://codepen.io/igordutra/project/full/Adygnk/)
+**Link to work:** [Codepen - Wikipedia Viewer](https://codepen.io/igordutra/project/full/Adygnk/) 
+
+### Day 34: July 22, 2017
+
+**Today's Progress**: Freecodecamp (60 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Build Wikipedia Viewer. JS and API requests. Finished
+
+**Link to work:** [Codepen - Wikipedia Viewer](https://codepen.io/igordutra/project/full/Adygnk/) 
 

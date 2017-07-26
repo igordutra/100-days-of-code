@@ -270,4 +270,11 @@
 **Thoughts:** Intermediate frontend dev projects - Build Wikipedia Viewer. JS and API requests. Finished
 
 **Link to work:** [Codepen - Wikipedia Viewer](https://codepen.io/igordutra/project/full/Adygnk/) 
+### Day 35: July 26, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Build Twitch Viewer. Done frontend using picniccss. For ajax and DOM I'll use umbrellajs.
+
+**Link to work:** [Codepen - Twitch Viewer](https://codepen.io/igordutra/project/full/Adygnk/) 
 

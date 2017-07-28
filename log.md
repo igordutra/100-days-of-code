@@ -277,4 +277,11 @@
 **Thoughts:** Intermediate frontend dev projects - Build Twitch Viewer. Done frontend using picniccss. For ajax and DOM I'll use umbrellajs.
 
 **Link to work:** [Codepen - Twitch Viewer](https://codepen.io/igordutra/project/full/Adygnk/) 
+### Day 36: July 28, 2017
+
+**Today's Progress**: Freecodecamp (90 mins)
+
+**Thoughts:** Intermediate frontend dev projects - Build Twitch Viewer. Finished! Done frontend using picniccss and ended up using jQuery.
+
+**Link to work:** [Codepen - Twitch Viewer](https://codepen.io/igordutra/project/full/Adygnk/) 
 

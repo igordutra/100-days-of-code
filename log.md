@@ -285,3 +285,12 @@
 
 **Link to work:** [Codepen - Twitch Viewer](https://codepen.io/igordutra/project/full/Adygnk/) 
 
+### Day 37: July 30, 2017
+
+**Today's Progress**: Freecodecamp (30 mins)
+
+**Thoughts:** Intermediate algorithm. Done 1st and started 2nd. Interesting but not very practical.
+
+**Link to work:** [Freecodecamp](https://www.freecodecamp.org/challenges/diff-two-arrays) 
+
+

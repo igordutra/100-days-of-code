@@ -292,5 +292,10 @@
 **Thoughts:** Intermediate algorithm. Done 1st and started 2nd. Interesting but not very practical.
 
 **Link to work:** [Freecodecamp](https://www.freecodecamp.org/challenges/diff-two-arrays) 
+### Day 38: August 13, 2017
 
+**Today's Progress**: WeatherBot Project (60 mins)
 
+**Thoughts:** Back from holidays. Helping a friend with a Python project, implementing CI pipeline, restructuring and making it web friendly. A little break from algorithms.
+
+**Link to work:** [Github](https://github.com/lucasfr/tweetBot) 

@@ -299,3 +299,12 @@
 **Thoughts:** Back from holidays. Helping a friend with a Python project, implementing CI pipeline, restructuring and making it web friendly. A little break from algorithms.
 
 **Link to work:** [Github](https://github.com/lucasfr/tweetBot) 
+
+### Day 39: August 21, 2017
+
+**Today's Progress**: WeatherBot Project (60 mins)
+
+**Thoughts:** Project has changed name and now it's a Flask app, so I can help with more frontend and js.
+
+**Link to work:** [Github](https://github.com/lucasfr/weatherFeelings) 
+
